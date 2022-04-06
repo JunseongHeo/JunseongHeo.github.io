@@ -285,7 +285,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      read_time: # true // 완독 시간
+      comments: # true // 댓글
+      share: # true // 소셜 공유 기능
+      related: # true // 관련 포스트 추천
+      toc : # true // 목차보기
