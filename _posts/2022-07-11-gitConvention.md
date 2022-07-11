@@ -59,3 +59,5 @@ Remove
 
 
 [이모지복붙 https://emojipedia.org/](https://emojipedia.org/)
+
+[깃모지 마크다운명령어](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)
