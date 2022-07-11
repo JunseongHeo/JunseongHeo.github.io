@@ -6,7 +6,7 @@ categories: Git
 tag: [Git] 
 ---
 
-Feat
+⭐ Feat
 새로운 기능을 추가할 경우
 
 
@@ -38,7 +38,7 @@ Comment
 필요한 주석 추가 및 변경
 
 
-Docs
+📖 Docs
 문서를 수정한 경우
 
 
