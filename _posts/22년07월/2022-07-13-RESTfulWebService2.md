@@ -87,7 +87,22 @@ public class UserDaoService {
 URI가 같더라도 작동하는 방식(Get, POST)가 다르기때문에
 서로 다른동작을 하게 할 수 있음
 
+
+### HTTP Status Code 제어
+
+서버에서 응답하는 리턴값 제어
+데이터 동작, 행위에 대하여 작업용도에 맞춰 HTTP 메서드 활용
+(get, post, put/ptach, delete)
+
+
 ### Exception Handling
+
+AOP를 활용한 Exception Handling
+스프링에서 제공하는 공통적인 로직 활용
+
+REST API 예외객체 오버라이딩하여 REST API의 완성도를 높임.
 
 
 ### DELETE
+
+삭제 메소드 추가
