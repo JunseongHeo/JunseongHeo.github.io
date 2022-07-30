@@ -78,6 +78,7 @@ resources 폴더 아래 sql폴더는 데이터베이스 실행시 실행.
 
 ### JPA Service 구현을 위한 Controller, Repository 생성
 
+jpa
 
 
 
